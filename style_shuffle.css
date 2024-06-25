@@ -1,0 +1,64 @@
+span {
+    font-weight: bold;
+}
+
+.lo {
+    color: rgb(225, 163, 48);
+    font-size: 48px;
+    /* color: rgb(189, 137, 40); */
+}
+
+.lg {
+    color: green;
+    font-size: 48px;
+}
+
+.lp {
+    color: purple;
+    font-size: 48px;
+}
+
+.bb {
+    color: blue;
+    font-size: 63px;
+}
+
+.br {
+    color: red;
+    font-size: 63px;
+}
+
+table {
+    font-size: 40px;
+    text-align: center;
+}
+
+td {
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+.color_key {
+    font-size:25px;;
+}
+
+#table2 {
+    margin-top: 30px;
+}
+
+#table2 td {
+    padding-left: 0;
+    padding-right: 40px;
+    padding-top: 10px;
+    text-align: left;
+}
+
+p {
+    margin: 0;
+}
+
+#key_heading {
+    text-decoration: underline;
+    font-weight: bold;
+    text-decoration-skip-ink: none;
+}
